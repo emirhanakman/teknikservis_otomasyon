@@ -1,0 +1,37 @@
+c:\users\metin\documents\visual studio 2012\Projects\teknikservis\teknikservis\bin\Debug\teknikservis.exe.config
+c:\users\metin\documents\visual studio 2012\Projects\teknikservis\teknikservis\bin\Debug\teknikservis.exe
+c:\users\metin\documents\visual studio 2012\Projects\teknikservis\teknikservis\bin\Debug\teknikservis.pdb
+c:\users\metin\documents\visual studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.csprojResolveAssemblyReference.cache
+c:\users\metin\documents\visual studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.Form1.resources
+c:\users\metin\documents\visual studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.Properties.Resources.resources
+c:\users\metin\documents\visual studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.csproj.GenerateResource.Cache
+c:\users\metin\documents\visual studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.exe
+c:\users\metin\documents\visual studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.pdb
+c:\users\metin\documents\visual studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.Form2.resources
+M:\masaüstü44\belgelerim\Visual Studio 2012\Projects\teknikservis\teknikservis\bin\Debug\teknikservis.exe.config
+M:\masaüstü44\belgelerim\Visual Studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.exe
+M:\masaüstü44\belgelerim\Visual Studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.pdb
+M:\masaüstü44\belgelerim\Visual Studio 2012\Projects\teknikservis\teknikservis\bin\Debug\teknikservis.exe
+M:\masaüstü44\belgelerim\Visual Studio 2012\Projects\teknikservis\teknikservis\bin\Debug\teknikservis.pdb
+M:\masaüstü44\belgelerim\Visual Studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.csprojResolveAssemblyReference.cache
+M:\masaüstü44\belgelerim\Visual Studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.Form1.resources
+M:\masaüstü44\belgelerim\Visual Studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.Form2.resources
+M:\masaüstü44\belgelerim\Visual Studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.Properties.Resources.resources
+M:\masaüstü44\belgelerim\Visual Studio 2012\Projects\teknikservis\teknikservis\obj\Debug\teknikservis.csproj.GenerateResource.Cache
+C:\Users\Root\Desktop\teknikservis\teknikservis\bin\Debug\teknikservis.exe.config
+C:\Users\Root\Desktop\teknikservis\teknikservis\obj\Debug\teknikservis.exe
+C:\Users\Root\Desktop\teknikservis\teknikservis\obj\Debug\teknikservis.pdb
+C:\Users\Root\Desktop\teknikservis\teknikservis\bin\Debug\teknikservis.exe
+C:\Users\Root\Desktop\teknikservis\teknikservis\bin\Debug\teknikservis.pdb
+C:\Users\Root\Desktop\teknikservis\teknikservis\bin\Debug\mscorlib.dll
+C:\Users\Root\Desktop\teknikservis\teknikservis\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Root\Desktop\teknikservis\teknikservis\bin\Debug\normidna.nlp
+C:\Users\Root\Desktop\teknikservis\teknikservis\bin\Debug\normnfc.nlp
+C:\Users\Root\Desktop\teknikservis\teknikservis\bin\Debug\normnfd.nlp
+C:\Users\Root\Desktop\teknikservis\teknikservis\bin\Debug\normnfkc.nlp
+C:\Users\Root\Desktop\teknikservis\teknikservis\bin\Debug\normnfkd.nlp
+C:\Users\Root\Desktop\teknikservis\teknikservis\obj\Debug\teknikservis.csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\teknikservis\teknikservis\obj\Debug\teknikservis.Form1.resources
+C:\Users\Root\Desktop\teknikservis\teknikservis\obj\Debug\teknikservis.Form2.resources
+C:\Users\Root\Desktop\teknikservis\teknikservis\obj\Debug\teknikservis.Properties.Resources.resources
+C:\Users\Root\Desktop\teknikservis\teknikservis\obj\Debug\teknikservis.csproj.GenerateResource.Cache
